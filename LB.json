@@ -8,6 +8,7 @@
 		"1":{
 			"title":"Oneshot",
 			"volume":"1",
+			"last_updated":"1626634900",
 			"groups":{
 				"":[
 					"https://drive.google.com/uc?id=1TxuNiYOAzsteAJ_nFMhqcoEOuQqjUXyI",
@@ -154,8 +155,7 @@
 					"https://drive.google.com/uc?id=1NFUXTDWNCuRzIa5vXixEACIhI866vjDh",
 					"https://drive.google.com/uc?id=1RkmNvBBz8Ux0a-WTqTvzDQRTRDqYY6Q6"
 				]
-			},
-			"last_updated":"1626634900"
+			}
 		}
 	}
 }
