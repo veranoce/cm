@@ -9,7 +9,7 @@
          "title":"Yuuji & Chise",
          "volume":"1",
          "groups":{
-            "PaulBunyanTrophy":"/proxy/api/imgur/chapter/e3ekiHz/"
+            "ThePaulBunyanTrophy":"/proxy/api/imgur/chapter/e3ekiHz/"
          },
          "last_updated":""
       },
@@ -17,7 +17,7 @@
          "title":"Yuuji & Sumire",
          "volume":"1",
          "groups":{
-            "PaulBunyanTrophy":"/proxy/api/imgur/chapter/OKbfklQ/"
+            "ThePaulBunyanTrophy":"/proxy/api/imgur/chapter/OKbfklQ/"
          },
          "last_updated":""
       },
@@ -33,7 +33,7 @@
          "title":"Moe & Yuuji",
          "volume":"1",
          "groups":{
-            "PaulBunyanTrophy":"/proxy/api/imgur/chapter//"
+            "ThePaulBunyanTrophy":"/proxy/api/imgur/chapter//"
          },
          "last_updated":""
       },
@@ -41,7 +41,7 @@
          "title":"Yuuji & Mia",
          "volume":"1",
          "groups":{
-            "PaulBunyanTrophy":"/proxy/api/imgur/chapter//"
+            "ThePaulBunyanTrophy":"/proxy/api/imgur/chapter//"
          },
          "last_updated":""
       },
@@ -49,7 +49,7 @@
          "title":"Chise & Kyouhei",
          "volume":"1",
          "groups":{
-            "PaulBunyanTrophy":"/proxy/api/imgur/chapter//"
+            "ThePaulBunyanTrophy":"/proxy/api/imgur/chapter//"
          },
          "last_updated":""
       },
@@ -57,7 +57,7 @@
          "title":"Chise & Haru",
          "volume":"1",
          "groups":{
-            "PaulBunyanTrophy":"/proxy/api/imgur/chapter/XHAFX8x/"
+            "ThePaulBunyanTrophy":"/proxy/api/imgur/chapter/XHAFX8x/"
          },
          "last_updated":""
       },
@@ -65,7 +65,7 @@
          "title":"Reina & Minoru",
          "volume":"1",
          "groups":{
-            "PaulBunyanTrophy":"/proxy/api/imgur/chapter/waEqTcp/"
+            "ThePaulBunyanTrophy":"/proxy/api/imgur/chapter/waEqTcp/"
          },
          "last_updated":""
       },
@@ -73,7 +73,7 @@
          "title":"Shinya & Chise",
          "volume":"1",
          "groups":{
-            "PaulBunyanTrophy":"/proxy/api/imgur/chapter/W66CXGw/"
+            "ThePaulBunyanTrophy":"/proxy/api/imgur/chapter/W66CXGw/"
          },
          "last_updated":""
       },
@@ -92,6 +92,6 @@
             "Bakaguya Scanlation & me":"/proxy/api/imgur/chapter//"
          },
          "last_updated":""
-      },
+      }
    }
 }
