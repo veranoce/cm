@@ -1,0 +1,97 @@
+{
+   "title":"Love Score",
+   "description":"https://www.mangaupdates.com/series.html?id=164973\nhttps://mangadex.org/title/12a94373-ef2c-4c07-8a8b-a29e631baf83",
+   "artist":"LEN[A-7]",
+   "author":"LEN[A-7]",
+   "cover":"https://i.imgur.com/K1h4YPF.png",
+   "chapters":{
+      "1":{
+         "title":"Yuuji & Chise",
+         "volume":"1",
+         "groups":{
+            "PaulBunyanTrophy":"/proxy/api/imgur/chapter/e3ekiHz/"
+         },
+         "last_updated":""
+      },
+      "2":{
+         "title":"Yuuji & Sumire",
+         "volume":"1",
+         "groups":{
+            "PaulBunyanTrophy":"/proxy/api/imgur/chapter//"
+         },
+         "last_updated":""
+      },
+      "3":{
+         "title":"Yuuji & Ayaka",
+         "volume":"1",
+         "groups":{
+            "PaulBunyanTrophy":"/proxy/api/imgur/chapter//"
+         },
+         "last_updated":""
+      },
+      "4":{
+         "title":"Moe & Yuuji",
+         "volume":"1",
+         "groups":{
+            "PaulBunyanTrophy":"/proxy/api/imgur/chapter//"
+         },
+         "last_updated":""
+      },
+      "5":{
+         "title":"Yuuji & Mia",
+         "volume":"1",
+         "groups":{
+            "PaulBunyanTrophy":"/proxy/api/imgur/chapter//"
+         },
+         "last_updated":""
+      },
+      "6":{
+         "title":"Chise & Kyouhei",
+         "volume":"1",
+         "groups":{
+            "PaulBunyanTrophy":"/proxy/api/imgur/chapter//"
+         },
+         "last_updated":""
+      },
+      "7":{
+         "title":"Chise & Haru",
+         "volume":"1",
+         "groups":{
+            "PaulBunyanTrophy":"/proxy/api/imgur/chapter/XHAFX8x/"
+         },
+         "last_updated":""
+      },
+      "8":{
+         "title":"Reina & Minoru",
+         "volume":"1",
+         "groups":{
+            "PaulBunyanTrophy":"/proxy/api/imgur/chapter/waEqTcp/"
+         },
+         "last_updated":""
+      },
+      "9":{
+         "title":"Shinya & Chise",
+         "volume":"1",
+         "groups":{
+            "PaulBunyanTrophy":"/proxy/api/imgur/chapter/W66CXGw/"
+         },
+         "last_updated":""
+      },
+      "10":{
+         "title":"Chise & Ichitaka",
+         "volume":"1",
+         "groups":{
+            "Bakaguya Scanlation & me":"/proxy/api/imgur/chapter//"
+         },
+         "last_updated":""
+      }
+      "11":{
+         "title":"You & I",
+         "volume":"1",
+         "groups":{
+            "Bakaguya Scanlation & me":"/proxy/api/imgur/chapter//"
+         },
+         "last_updated":""
+      },
+   }
+}
